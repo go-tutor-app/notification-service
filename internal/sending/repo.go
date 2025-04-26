@@ -1,4 +1,4 @@
-package reusablecode
+package sending
 
 import (
 	"context"

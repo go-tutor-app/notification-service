@@ -1,4 +1,4 @@
-package reusablecode
+package sending
 
 import (
 	"promotion/pkg/databases"
